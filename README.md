@@ -1,2 +1,1 @@
 # solara-discord
-.
